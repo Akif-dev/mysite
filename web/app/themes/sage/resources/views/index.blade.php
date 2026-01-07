@@ -8,6 +8,8 @@
       {!! __('Sorry, no results were found.', 'sage') !!}
     </x-alert>
 
+      {{-- akif Section --}}
+
     {!! get_search_form(false) !!}
   @endif
 
