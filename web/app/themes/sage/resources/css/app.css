@@ -1,0 +1,4 @@
+@import 'tailwindcss' theme(static);
+@import './main.css';
+@source "../views/";
+@source "../../app/";
